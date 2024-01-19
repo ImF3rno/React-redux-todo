@@ -1,0 +1,2 @@
+export const ACTIVE_TODO="AKTYVIOS"
+export const FINISHED_TODO="PABAIGTOS"
